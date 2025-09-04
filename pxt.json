@@ -1,1 +1,15 @@
-
+{
+  "name": "arcade-easing",
+  "version": "0.0.1",
+  "description": "Full easing animations for MakeCode Arcade: cancelable, multi-sprite, with blocks.",
+  "license": "MIT",
+  "dependencies": {
+    "arcade": "*"
+  },
+  "files": [
+    "easing.ts"
+  ],
+  "testFiles": [],
+  "public": true,
+  "preferredEditor": "arcade"
+}
